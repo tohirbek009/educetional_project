@@ -1,0 +1,20 @@
+.carousel__back-button{
+    position: absolute;
+    top: 50%;
+    border: none;
+    background-color: transparent;
+    color: white;
+    transform: scale(2.6);
+    margin-left: 50px;
+}
+
+.carousel__next-button{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    border: none;
+    background-color: transparent;
+    color: white;
+    transform: scale(2.6);
+    margin-right: 50px;
+}
